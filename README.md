@@ -18,10 +18,10 @@
 - API request
 
 ### Fuel Calculator
-<img src="" height=600>
+<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/calculator-app.png" height=700>
 
 ### Search by Mileage and Gasoline Type
-<img src="" height=600>
+<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/mileage-gasType.png" height=600>
 
 ### Search by Zipcode and Custom Gasoline Price
-<img src="" height=600>
+<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/zip-customGas.png" height=600>
