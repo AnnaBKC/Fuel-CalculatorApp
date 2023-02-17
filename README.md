@@ -17,11 +17,11 @@
 - Express.js
 - API request
 
-### Fuel Calculator
+### Fuel Cost Calculator
 <img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/calculator-app.png" height=800>
 
 ### Search by Mileage and Gasoline Type
-<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/mileage-gasType.png" height=700>
+<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/mileage-gasType.png" height=750>
 
 ### Search by Zipcode and Custom Gasoline Price
-<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/zip-customGas.png" height=700>
+<img src="https://github.com/AnnaBKC/Fuel-CalculatorApp/blob/main/appScreenshot/zip-customGas.png" height=750>
